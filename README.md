@@ -1,0 +1,1 @@
+This is just a copyright-free demo template taken from w3schools as an introduction to bootstrap. I recommend anybody using this for their own learning to make any and all necessary changes as they see fit.
